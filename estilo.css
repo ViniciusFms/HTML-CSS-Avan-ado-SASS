@@ -1,0 +1,17 @@
+nav {
+  background-color: tomato;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+  background-color: darkorange;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}/*# sourceMappingURL=estilo.css.map */
